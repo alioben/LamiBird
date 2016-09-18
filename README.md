@@ -1,5 +1,6 @@
 # LamiBird
-	Simple game created in processing using Java. The aim of this game is to  travel the longest distance possible and avoid obstacles.
+	Simple game created in processing using Java.
+	The aim of this game is to  travel the longest distance possible and avoid obstacles.
 
 # Requirement
 	This game uses the library gifAnimation which is not supported by the latest versions of Processing. The library is available at this link https://github.com/01010101/GifAnimation, and you can install it manually by copying the main folder into your "libraries" folder in your Processing sketchbook.
